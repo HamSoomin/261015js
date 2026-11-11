@@ -8,7 +8,7 @@
 
 body {
     background: #ffffff;
-    color: #2d2d2d;
+    color: #5e84d1;
 }
 
 ul {
@@ -58,8 +58,8 @@ header h1 {
      width: 14px;
      height: 14px;
      border-radius: 50%;
-     background: #aeaeae;
+     background: #c2d6ff;
 }
 #button a.target {
-    background: #ff7a7a;
+    background: #5e84d1;
 }
